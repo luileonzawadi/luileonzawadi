@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @luileonzawadi
+- 👋 Hi, I’m @Leon
 - 👀 I’m interested in Coding/programming
 - 🌱 I’m currently learning a university student
 - 💞️ I’m looking to collaborate on programming and coming up with apps and learning more about programming
